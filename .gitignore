@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+*.db
+
+# Node
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
